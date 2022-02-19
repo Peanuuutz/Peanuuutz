@@ -10,11 +10,11 @@ Karemtli, Ey'm wrkeen aun thi foloin plojekts:
 
 - \[ [Tomlkt](https://github.com/Peanuuutz/tomlkt) \] : ei laibloli ikstendz [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) fo [TOML](https://toml.io).
 
-  [![Tomlkt](https://github-readme-stats.vercel.app/api/pin/?username=Peanuuutz&repo=tomlkt&theme=nord&hide_border=true&text_color=ADBAC7)](https://github.com/Peanuuutz/tomlkt)
+  [![Tomlkt](https://github-readme-stats.vercel.app/api/pin/?username=Peanuuutz&repo=tomlkt&theme=nord&text_color=ADBAC7)](https://github.com/Peanuuutz/tomlkt)
 
 - \[ [Furbot-Mirai](https://github.com/furleywolf/Furbot-Mirai) \] : ei [Mirai Console](https://github.com/mamoe/mirai) plageen fo Kemono piktchrz. Jes Ey'm Furry.
 
-  [![Furbot-Mirai](https://github-readme-stats.vercel.app/api/pin/?username=furleywolf&repo=Furbot-Mirai&theme=nord&hide_border=true&text_color=ADBAC7)](https://github.com/furleywolf/Furbot-Mirai)
+  [![Furbot-Mirai](https://github-readme-stats.vercel.app/api/pin/?username=furleywolf&repo=Furbot-Mirai&theme=nord&text_color=ADBAC7)](https://github.com/furleywolf/Furbot-Mirai)
 
 - \[ Peanutz-lib \] : Kotlin atilz fo Minecraft Fabric moddaz, kavaz ei wyed topeeks inkroodin kanfigyuleision, yuza entafeis...
 
@@ -22,9 +22,9 @@ Karemtli, Ey'm wrkeen aun thi foloin plojekts:
 
 ## Sdaats 📊
 
-![Peanuuutz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peanuuutz&show_icons=true&theme=nord&hide_border=true&text_color=ADBAC7)
+![Peanuuutz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peanuuutz&show_icons=true&theme=nord&text_color=ADBAC7)
 
-![Preferred Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Peanuuutz&theme=nord&hide_border=true&text_color=ADBAC7)
+![Preferred Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Peanuuutz&theme=nord&text_color=ADBAC7)
 
 ## Kantakt 📞
 
