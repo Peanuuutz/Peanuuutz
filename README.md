@@ -16,10 +16,6 @@ Karemtli, Ey'm wrkeen aun thi foloin plojekts:
 
   [![Furbot-Mirai](https://github-readme-stats.vercel.app/api/pin/?username=furleywolf&repo=Furbot-Mirai&theme=nord&text_color=ADBAC7)](https://github.com/furleywolf/Furbot-Mirai)
 
-- \[ Peanutz-lib \] : Kotlin atilz fo Minecraft Fabric moddaz, kavaz ei wyed topeeks inkroodin kanfigyuleision, yuza entafeis...
-
-  _(nat aveilebl nau...)_
-
 ## Sdaats 📊
 
 ![Peanuuutz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peanuuutz&show_icons=true&theme=nord&text_color=ADBAC7)
