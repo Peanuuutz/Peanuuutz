@@ -10,11 +10,7 @@ Karemtli, Ey'm wrkeen aun thi foloin plojekts:
 
 - \[ [Tomlkt](https://github.com/Peanuuutz/tomlkt) \] : ei laibloli ikstendz [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) fo [TOML](https://toml.io).
 
-  [![Tomlkt](https://github-readme-stats.vercel.app/api/pin/?username=Peanuuutz&repo=tomlkt&theme=nord&text_color=ADBAC7)](https://github.com/Peanuuutz/tomlkt)
-
 - \[ [Furbot-Mirai](https://github.com/furleywolf/Furbot-Mirai) \] : ei [Mirai Console](https://github.com/mamoe/mirai) plageen fo Kemono piktchrz. Jes Ey'm Furry.
-
-  [![Furbot-Mirai](https://github-readme-stats.vercel.app/api/pin/?username=furleywolf&repo=Furbot-Mirai&theme=nord&text_color=ADBAC7)](https://github.com/furleywolf/Furbot-Mirai)
 
 ## Sdaats 📊
 
