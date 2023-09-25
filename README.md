@@ -2,7 +2,7 @@
 
 Glaed tu mit yu! Ai'm Pinats, ei yelou kaet az yu si.
 
-Mai feiv prograemin lengweij iz [Kotlin](https://kotlinlang.org/), aend Ai lav modin [Minecraft](https://minecraft.net).
+Mai feivereit prograemin lengweij iz [Kotlin](https://kotlinlang.org/), aend Ai lav modin [Minecraft](https://minecraft.net).
 
 _Ai kaem from nouwer, bat yor imaejneishen, sou yu mait faind yorself nat noun mai lengweij._
 
@@ -10,7 +10,9 @@ _Ai kaem from nouwer, bat yor imaejneishen, sou yu mait faind yorself nat noun m
 
 Ai'v bin wrkin an the foloin projekts:
 
-- \[ Feather \] : ei Kotlin Multiplatform kanfig laibrori, inkludin vaerous fomats sach aez JSON, TOML. _(Nat eveilebou yet)_
+- \[ [tomlkt](https://github.com/Peanuuutz/tomlkt) \]: Maltiplaetfom [TOML](http://toml.io/) inkouder end dikouder, paowerd bai [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization).
+
+- \[ [Fork API](https://github.com/Peanuuutz/fork-api) \] : Komprihensiv EiPiAi dizaind fo Minecraft moderz. _( Nat eveilebl yeit )_
 
 ## Sdats 📊
 
