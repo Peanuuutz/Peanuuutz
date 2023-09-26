@@ -12,7 +12,7 @@ Ai'v bin wrkin an the foloin projekts:
 
 - \[ [tomlkt](https://github.com/Peanuuutz/tomlkt) \]: Maltiplaetfom [TOML](http://toml.io/) inkouder end dikouder, paowerd bai [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization).
 
-- \[ [Fork API](https://github.com/Peanuuutz/fork-api) \] : Komprihensiv EiPiAi dizaind fo Minecraft moderz. _( Nat eveilebl yeit )_
+- \[ [Crate API](https://github.com/Peanuuutz/crate-api) \] : Komprihensiv EiPiAi dizaind fo Minecraft moderz. _( Nat eveilebl yeit )_
 
 ## Sdats 📊
 
