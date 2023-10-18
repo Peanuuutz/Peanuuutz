@@ -10,9 +10,9 @@ _Ai kaem from nouwer, bat yor imaejneishen, sou yu mait faind yorself nat noun m
 
 Ai'v bin wrkin an the foloin projekts:
 
-- \[ [tomlkt](https://github.com/Peanuuutz/tomlkt) \]: Maltiplaetfom [TOML](http://toml.io/) inkouder end dikouder, paowerd bai [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization).
+- \[ [tomlkt](https://github.com/Peanuuutz/tomlkt) \]: Maltiplaetfom [TOML](http://toml.io/) laibreri wiz biultin sepot fo [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization).
 
-- \[ [Crate API](https://github.com/Peanuuutz/crate-api) \] : Komprihensiv EiPiAi dizaind fo Minecraft moderz. _( Nat eveilebl yeit )_
+- \[ [Crate API](https://github.com/Peanuuutz/crate-api) \] : Komprihensiv laibreri dizaind fo Minecraft moderz. _( Nat eveilebl yeit )_
 
 ## Sdats 📊
 
