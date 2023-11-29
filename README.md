@@ -2,7 +2,7 @@
 
 Glaed tu mit yu! Ai'm Pinats, ei yelou kaet az yu si.
 
-Mai feivereit prograemin lengweij iz [Kotlin](https://kotlinlang.org/), aend Ai lav modin [Minecraft](https://minecraft.net).
+Mai feivereit prograemin lengweijz ar [Rust](https://rust-lang.org/) end [Kotlin](https://kotlinlang.org/), aend Ai lav modin [Minecraft](https://minecraft.net).
 
 _Ai kaem from nouwer, bat yor imaejneishen, sou yu mait faind yorself nat noun mai lengweij._
 
@@ -15,6 +15,8 @@ Ai'v bin wrkin an the foloin projekts:
 - \[ [Crate API](https://github.com/Peanuuutz/crate-api) \] : Komprihensiv laibreri dizaind fo Minecraft moderz. _( Nat eveilebl yeit )_
 
 ## Sdats 📊
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ![Pinats' GitHub sdats](https://github-readme-stats.vercel.app/api?username=Peanuuutz&show_icons=true&theme=nord&text_color=ADBAC7)
 
