@@ -12,8 +12,6 @@ Ai'v bin wrkin an the foloin projekts:
 
 - \[ [tomlkt](https://github.com/Peanuuutz/tomlkt) \]: Maltiplaetfom [TOML](http://toml.io/) laibreri wiz biultin sepot fo [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization).
 
-- \[ [Crate API](https://github.com/Peanuuutz/crate-api) \] : Komprihensiv laibreri dizaind fo Minecraft moderz. _( Nat eveilebl yeit )_
-
 ## Sdats 📊
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
